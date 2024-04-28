@@ -1,0 +1,66 @@
+{"level":30,"time":"2024-04-28T19:40:00.450Z","pid":14500,"hostname":"Pedro-Vitor","msg":"Listening on 56090"}
+(node:14500) DeprecationWarning: Calling start() is no longer necessary. It can be safely omitted.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+{"level":30,"time":"2024-04-28T19:40:00.954Z","pid":14500,"hostname":"Pedro-Vitor","msg":"Start of node method initializeExtension"}
+{"level":30,"time":"2024-04-28T19:40:00.954Z","pid":14500,"hostname":"Pedro-Vitor","msg":"Initializing extension: C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\QAx\\projects\\parodify-robot\\resources\\module.js"}
+{"level":30,"time":"2024-04-28T19:40:00.957Z","pid":14500,"hostname":"Pedro-Vitor","msg":"End of node method initializeExtension"}
+{"level":30,"time":"2024-04-28T19:40:00.955Z","pid":14500,"hostname":"Pedro-Vitor","msg":"Adding 1 keywords from JS Extension"}
+{"level":30,"time":"2024-04-28T19:40:01.012Z","pid":14500,"hostname":"Pedro-Vitor","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-04-28T19:40:01.012Z","pid":14500,"hostname":"Pedro-Vitor","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-04-28T19:40:01.017Z","pid":14500,"hostname":"Pedro-Vitor","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-04-28T19:40:01.017Z","pid":14500,"hostname":"Pedro-Vitor","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-04-28T19:40:01.021Z","pid":14500,"hostname":"Pedro-Vitor","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2024-04-28T19:40:01.661Z","pid":14500,"hostname":"Pedro-Vitor","msg":"Adding browser to stack: firefox, version: 123.0"}
+{"level":30,"time":"2024-04-28T19:40:01.662Z","pid":14500,"hostname":"Pedro-Vitor","msg":"End of node method newBrowser"}
+{"level":30,"time":"2024-04-28T19:40:01.662Z","pid":14500,"hostname":"Pedro-Vitor","msg":"Adding 0 contexts to browser"}
+{"level":30,"time":"2024-04-28T19:40:01.670Z","pid":14500,"hostname":"Pedro-Vitor","msg":"Start of node method newPage"}
+{"level":30,"time":"2024-04-28T19:40:01.671Z","pid":14500,"hostname":"Pedro-Vitor","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2024-04-28T19:40:01.758Z","pid":14500,"hostname":"Pedro-Vitor","msg":"Changed active context"}
+{"level":30,"time":"2024-04-28T19:40:04.224Z","pid":14500,"hostname":"Pedro-Vitor","msg":"Video path: undefined"}
+{"level":30,"time":"2024-04-28T19:40:04.225Z","pid":14500,"hostname":"Pedro-Vitor","msg":"Changed active page"}
+{"level":30,"time":"2024-04-28T19:40:04.551Z","pid":14500,"hostname":"Pedro-Vitor","msg":"End of node method newPage"}
+{"level":30,"time":"2024-04-28T19:40:04.616Z","pid":14500,"hostname":"Pedro-Vitor","msg":"Start of node method goTo"}
+{"level":30,"time":"2024-04-28T19:40:07.167Z","pid":14500,"hostname":"Pedro-Vitor","msg":"End of node method goTo"}
+{"level":30,"time":"2024-04-28T19:40:07.176Z","pid":14500,"hostname":"Pedro-Vitor","msg":"Start of node method getText"}
+{"level":30,"time":"2024-04-28T19:40:07.177Z","pid":14500,"hostname":"Pedro-Vitor","msg":"Strict mode is enabled, find Locator with css=.logged-user in page."}
+{"level":30,"time":"2024-04-28T19:40:07.329Z","pid":14500,"hostname":"Pedro-Vitor","msg":"Retrieved text for element css=.logged-user containing Fernando Papito"}
+{"level":30,"time":"2024-04-28T19:40:07.329Z","pid":14500,"hostname":"Pedro-Vitor","msg":"End of node method getText"}
+{"level":30,"time":"2024-04-28T19:40:07.341Z","pid":14500,"hostname":"Pedro-Vitor","msg":"Start of node method click"}
+{"level":30,"time":"2024-04-28T19:40:07.342Z","pid":14500,"hostname":"Pedro-Vitor","msg":"Strict mode is enabled, find Locator with xpath=//div[contains(@class, \"song\")]//h6[text()=\"Smells Like Test Script\"]/..//button[contains(@class,\"play\")] in page."}
+{"level":30,"time":"2024-04-28T19:40:07.516Z","pid":14500,"hostname":"Pedro-Vitor","msg":"End of node method click"}
+{"level":30,"time":"2024-04-28T19:40:07.527Z","pid":14500,"hostname":"Pedro-Vitor","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2024-04-28T19:40:07.528Z","pid":14500,"hostname":"Pedro-Vitor","msg":"Strict mode is enabled, find Locator with xpath=//div[contains(@class, \"song\")]//h6[text()=\"Smells Like Test Script\"]/..//button[contains(@class,\"pause\")] in page."}
+{"level":30,"time":"2024-04-28T19:40:07.782Z","pid":14500,"hostname":"Pedro-Vitor","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2024-04-28T19:40:07.791Z","pid":14500,"hostname":"Pedro-Vitor","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2024-04-28T19:40:07.791Z","pid":14500,"hostname":"Pedro-Vitor","msg":"Strict mode is enabled, find Locator with xpath=//div[contains(@class, \"song\")]//h6[text()=\"Smells Like Test Script\"]/..//button[contains(@class,\"play\")] in page."}
+{"level":30,"time":"2024-04-28T19:40:12.905Z","pid":14500,"hostname":"Pedro-Vitor","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2024-04-28T19:40:12.919Z","pid":14500,"hostname":"Pedro-Vitor","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2024-04-28T19:40:12.920Z","pid":14500,"hostname":"Pedro-Vitor","Take screenshot with options: ":{"path":"C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\QAx\\projects\\parodify-robot\\logs\\browser\\screenshot\\robotframework-browser-screenshot-1.png","fileType":"png","fullPage":false,"timeout":10000,"omitBackground":false}}
+{"level":30,"time":"2024-04-28T19:40:13.059Z","pid":14500,"hostname":"Pedro-Vitor","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2024-04-28T19:40:13.068Z","pid":14500,"hostname":"Pedro-Vitor","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-04-28T19:40:13.072Z","pid":14500,"hostname":"Pedro-Vitor","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-04-28T19:40:13.075Z","pid":14500,"hostname":"Pedro-Vitor","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-04-28T19:40:13.079Z","pid":14500,"hostname":"Pedro-Vitor","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-04-28T19:40:13.082Z","pid":14500,"hostname":"Pedro-Vitor","msg":"Changed active context"}
+{"level":30,"time":"2024-04-28T19:40:13.082Z","pid":14500,"hostname":"Pedro-Vitor","msg":"Changing current active page: page=f651f76d-3154-44dc-a35a-cc36a96db383"}
+{"level":30,"time":"2024-04-28T19:40:13.082Z","pid":14500,"hostname":"Pedro-Vitor","msg":"Changed active page"}
+{"level":30,"time":"2024-04-28T19:40:13.088Z","pid":14500,"hostname":"Pedro-Vitor","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-04-28T19:40:13.092Z","pid":14500,"hostname":"Pedro-Vitor","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-04-28T19:40:13.095Z","pid":14500,"hostname":"Pedro-Vitor","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2024-04-28T19:40:13.098Z","pid":14500,"hostname":"Pedro-Vitor","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2024-04-28T19:40:13.104Z","pid":14500,"hostname":"Pedro-Vitor","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2024-04-28T19:40:13.105Z","pid":14500,"hostname":"Pedro-Vitor","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2024-04-28T19:40:13.109Z","pid":14500,"hostname":"Pedro-Vitor","msg":"Changing current active page: page=f651f76d-3154-44dc-a35a-cc36a96db383"}
+{"level":30,"time":"2024-04-28T19:40:13.109Z","pid":14500,"hostname":"Pedro-Vitor","msg":"Changed active page"}
+{"level":30,"time":"2024-04-28T19:40:13.117Z","pid":14500,"hostname":"Pedro-Vitor","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-04-28T19:40:13.120Z","pid":14500,"hostname":"Pedro-Vitor","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-04-28T19:40:13.124Z","pid":14500,"hostname":"Pedro-Vitor","msg":"Changed active context"}
+{"level":30,"time":"2024-04-28T19:40:13.124Z","pid":14500,"hostname":"Pedro-Vitor","msg":"Changing current active page: page=f651f76d-3154-44dc-a35a-cc36a96db383"}
+{"level":30,"time":"2024-04-28T19:40:13.124Z","pid":14500,"hostname":"Pedro-Vitor","msg":"Changed active page"}
+{"level":30,"time":"2024-04-28T19:40:13.128Z","pid":14500,"hostname":"Pedro-Vitor","msg":"Start of node method closeContext"}
+{"level":30,"time":"2024-04-28T19:40:13.143Z","pid":14500,"hostname":"Pedro-Vitor","msg":"Removed page=fee58aff-0ac0-4c64-b0af-62ef60fefa2a from context=fde34262-a61e-4b00-b450-3b5bf2a3c9e5 page stack"}
+{"level":30,"time":"2024-04-28T19:40:13.156Z","pid":14500,"hostname":"Pedro-Vitor","msg":"End of node method closeContext"}
+{"level":30,"time":"2024-04-28T19:40:13.166Z","pid":14500,"hostname":"Pedro-Vitor","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-04-28T19:40:13.167Z","pid":14500,"hostname":"Pedro-Vitor","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-04-28T19:40:13.261Z","pid":14500,"hostname":"Pedro-Vitor","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2024-04-28T19:40:14.205Z","pid":14500,"hostname":"Pedro-Vitor","msg":"End of node method closeAllBrowsers"}
